@@ -1,0 +1,19 @@
+{
+  "name": "chaining-pattern-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fartbagxp/chaining-pattern-nodejs.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fartbagxp/chaining-pattern-nodejs/issues"
+  },
+  "homepage": "https://github.com/fartbagxp/chaining-pattern-nodejs#readme"
+}
